@@ -1,6 +1,9 @@
 {
   "name": "go-keyspace",
-  "author": "joe",
+  "author": "whyrusleeping",
   "version": "1.0.0",
-  "language": "go"
+  "language": "go",
+  "gx": {
+    "dvcsimport": "github.com/whyrusleeping/go-keyspace"
+  }
 }
